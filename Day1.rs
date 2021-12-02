@@ -75,8 +75,6 @@ fn part2(input: &Vec<i32>) {
 }
 
 fn main() {
-   println!("Hello, world!");
-
    let input = processInput("data/Day1.txt".to_string());
 
    part1(&input);
